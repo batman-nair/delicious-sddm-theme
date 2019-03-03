@@ -3,6 +3,11 @@
 <p align="center">Put your collection of DEs and WMs on display.</p>
 <p align="center"><img src="https://github.com/stuomas/stuff/blob/master/screencap.gif"></p>
 
+### Fork Changes :
+ - Added witcher background video
+ - Added xfce icon, made icons faded
+ - Color changes
+
 ## Features
 Delicious wants to showcase the available sessions instead of available users as in most cases there is only one user, although the user can of course still be changed in the menu in the footer panel. Delicious is somewhat customizable to your preferences, for example the background can be either a still image or a video and the color of the icons or the whole icon theme can be changed in the configuration file. See [Configuration](#configuration) for more details.
 
